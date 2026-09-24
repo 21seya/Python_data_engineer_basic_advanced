@@ -1,0 +1,2 @@
+velocidade_internet = 400
+print(velocidade_internet)
